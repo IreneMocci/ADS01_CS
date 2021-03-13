@@ -1,2 +1,2 @@
 # ADS01_CS
-Data Science @ Cambridge Spark - Week 01
+Data Science Bootcamp @ Cambridge Spark - Week 1
